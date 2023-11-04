@@ -1,0 +1,78 @@
+body {
+    background: #bdbdbd;
+    color: #333;
+    font-family: sans-serif;
+    font-size: 15px;
+}
+
+#wrapper {
+    background-color: #fff;
+}
+
+#wrapper header {
+    background: #232323;
+    padding: 20px;
+}
+
+#wrapper header hgroup {
+    float: left;
+    padding: 10px;
+    color: #fff;
+}
+
+.clear {
+    background: #fff;
+    clear: both;
+}
+
+
+/* Index Form */
+
+label {
+    display: block;
+    font-weight: bold;
+    padding: 3px;
+}
+
+input[type="submit"] {
+    background-color: #007BFF;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+button {
+    background-color: #007BFF;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+button a {
+    color: #fff;
+    text-decoration: none;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 10px 0;
+}
+
+td {
+    padding: 8px;
+}
+
+footer {
+    background: #232323;
+    color: #ffff;
+    padding: 20px;
+}
+
+section {
+    background: #fff;
+    padding: 20px;
+}
